@@ -1,0 +1,1 @@
+This repository contains a straightforward ATM simulation built using TypeScript and the Inquirer library for user interaction. Users can authenticate with a PIN, check their balance, and withdraw balance. The code provides a basic structure for understanding ATM functionality in a console-based environment.
